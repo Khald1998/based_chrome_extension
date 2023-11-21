@@ -1,8 +1,9 @@
 (() => {
     //arg = 1000000 
     //sar = 10721.36
-    //S/A = 93.2379
+    //S/A = 
     
+    const rate = 93.2379;
     let OGCostCollection = document.getElementsByClassName("discount_original_price");
     let FinalCostCollection = document.getElementsByClassName("discount_final_price");
     let GPPCostCollection = document.getElementsByClassName("game_purchase_price");
